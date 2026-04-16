@@ -1,0 +1,32 @@
+PROJECT OVERVIEW: JobSphere
+
+1. WHAT IS JOBSPHERE?
+--------------------------------------------------
+JobSphere is a modern, smart job portal. Unlike standard job boards, it acts as a two-way bridge connecting ambitious job seekers with top-tier companies, and it uses built-in Artificial Intelligence (AI) to help both sides every step of the way. 
+
+2. WHO IS IT FOR?
+--------------------------------------------------
+- Job Seekers: People looking for their next career move. They can browse jobs, manage their profile, and get AI advice.
+- Employers/Recruiters: Companies looking to hire. They have their own workspace to review applicants and post new jobs.
+
+3. KEY FEATURES
+--------------------------------------------------
+A. Smart Job Search
+   - Users can instantly search and filter thousands of jobs by category, location, or full-time/remote status—all without the page needing to reload.
+
+B. Built-In AI Career Assistant
+   - Instead of just looking at jobs, users get a personal helper powered by AI (similar to ChatGPT). 
+   - For Seekers: The AI can review their resume, suggest improvements, estimate fair salaries, and provide custom interview practice questions for the exact job they are looking at.
+   - For Employers: The AI can automatically write polished job descriptions if they just type in a few keywords.
+
+C. Personalized Dashboards
+   - Job Seekers get a personal profile page that tracks how strong their resume is, how many jobs they've saved, and their current applications.
+   - Employers get a hiring dashboard that shows how many people applied, who the top candidates are, and an "AI Match" score showing who fits best.
+
+4. BEHIND THE SCENES
+--------------------------------------------------
+Even though the website looks incredibly clean and simple on the outside, it is built on very modern, fast web technology. Information is stored securely, and the AI features talk to powerful external systems completely invisibly, meaning the user just sees a fast, seamless experience.
+
+5. BRIEF SUMMARY
+--------------------------------------------------
+JobSphere is an all-in-one job marketplace that brings hiring into the modern era. By combining a beautiful, easy-to-use design with a built-in AI assistant, it takes the stress out of the job hunt for candidates and makes finding the perfect employee much faster for companies.
