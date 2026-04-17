@@ -4,7 +4,7 @@ import { useState } from "react";
 
 export default function AICareerAssistant({ 
   context = "home", 
-  customBadgeTag = "✦ Powered by Claude",
+  customBadgeTag = "✦ Powered by JobSphere",
   title = "Ask anything about your job search",
   subtitle = "Resume tips, salary ranges, interview prep...",
   examplePrompts = [] 
